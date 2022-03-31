@@ -4,4 +4,4 @@ how to use:
 
 1) chmod +x googleapi.sh
 
-2) ./googleapi.sh and add your apikey to validate
+2) ./googleapi.sh 
